@@ -59,7 +59,7 @@ To view the project locally, follow these steps:
 ---
 ## 📜 Certification
 
-✅ Project completed as part of the [Google Advanced Data Analytics Professional Certificate](https://www.credly.com/badges/baeba45a-8735-4fc5-9134-ab28a724317d/public_url)
+✅ Projects completed as part of the [Google Advanced Data Analytics Professional Certificate](https://www.credly.com/badges/baeba45a-8735-4fc5-9134-ab28a724317d/public_url)
 
 ---
 ## **Contact**
