@@ -18,7 +18,9 @@ This portfolio highlights the work I've done as I transition into the field of D
 
 Here are some of the key projects displayed on my portfolio:
 
+- **Waze Analytics Capstone Project**: This capstone project, completed as part of the **Google Advanced Data Analytics Certificate**, simulates a real-world scenario where data professionals analyze user behavior data for Waze, the GPS navigation app. The project includes data exploration, statistical modeling, and actionable business insights to support product decisions.
 - **Customer Churn Prediction and Insights with Python**: A data-driven project using Python to explore key factors behind customer attrition. Includes data cleaning, EDA, and visualization to uncover insights that support retention strategies.
+- **Salifort Motors HR Analytics Project**: Developed for the **Google Advanced Data Analytics Certificate**, this end-to-end capstone project focuses on HR analytics at Salifort Motors.  It involves data cleaning, exploratory analysis, and building a predictive model to identify factors influencing employee turnover and support retention strategies
 - **HR Analytics Dashboard**: A dashboard that visualizes HR metrics like employee satisfaction, performance, gender distribution, and attrition rates.
 - **Digital Lifestyle & Its Effect on Mental Wellness:** Analyzed the impact of digital habits and lifestyle choices on mental health across age and gender using Python and Tableau. Created interactive dashboards to highlight trends in stress, mood, sleep, and wellness behaviors.
 - **British Airways Insights**: A dashboard that displays travel and performance metrics from British Airways, including customer feedback, seat comfort, and cabin staff service.
@@ -55,7 +57,11 @@ To view the project locally, follow these steps:
 3. **Open the index.html file** in your browser to view the local version of the portfolio.
 
 ---
+## 📜 Certification
 
+✅ Project completed as part of the [Google Advanced Data Analytics Professional Certificate](https://www.credly.com/badges/baeba45a-8735-4fc5-9134-ab28a724317d/public_url)
+
+---
 ## **Contact**
 
 You can contact me through the following channels:
